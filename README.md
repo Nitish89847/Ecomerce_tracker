@@ -185,4 +185,4 @@ This project is licensed under the MIT License.
 ## ⭐ Acknowledgements
 
 * Amazon product data via RapidAPI
-* Open-source community tools and libraries
+* Open-source community tools and libraries..............
